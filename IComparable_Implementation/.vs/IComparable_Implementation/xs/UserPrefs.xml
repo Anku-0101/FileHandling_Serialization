@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1C726DEC-C66E-45D1-8E0C-B8201AEA53A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IComparable_Implementation/Student.cs">
+    <Files>
+      <File FileName="IComparable_Implementation/Program.cs" Line="26" Column="16" />
+      <File FileName="IComparable_Implementation/Student.cs" Line="30" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IComparable_Implementation" expanded="True">
+            <Node name="IComparable_Implementation" expanded="True">
+              <Node name="Student.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.IComparable__Implementation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
