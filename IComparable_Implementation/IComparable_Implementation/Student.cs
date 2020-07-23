@@ -10,6 +10,7 @@ namespace IComparable_Implementation
         public int  Class { get; set; }
         public float Marks { get; set; }
 
+        private int Height { get; set; }
         public void Information()
         {
             Console.Write(this.SID);

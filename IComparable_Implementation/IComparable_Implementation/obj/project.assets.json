@@ -8,28 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/ankuchoudhary/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\anku\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ankuchoudhary/Projects/IComparable_Implementation/IComparable_Implementation/IComparable_Implementation.csproj",
+      "projectUniqueName": "D:\\Test_Console\\NewRepo\\OfficeLearning\\IComparable_Implementation\\IComparable_Implementation\\IComparable_Implementation.csproj",
       "projectName": "IComparable_Implementation",
-      "projectPath": "/Users/ankuchoudhary/Projects/IComparable_Implementation/IComparable_Implementation/IComparable_Implementation.csproj",
-      "packagesPath": "/Users/ankuchoudhary/.nuget/packages/",
-      "outputPath": "/Users/ankuchoudhary/Projects/IComparable_Implementation/IComparable_Implementation/obj/",
+      "projectPath": "D:\\Test_Console\\NewRepo\\OfficeLearning\\IComparable_Implementation\\IComparable_Implementation\\IComparable_Implementation.csproj",
+      "packagesPath": "C:\\Users\\anku\\.nuget\\packages\\",
+      "outputPath": "D:\\Test_Console\\NewRepo\\OfficeLearning\\IComparable_Implementation\\IComparable_Implementation\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/ankuchoudhary/.config/NuGet/NuGet.Config"
+        "C:\\Users\\anku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
