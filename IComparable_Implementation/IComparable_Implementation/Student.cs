@@ -11,6 +11,8 @@ namespace IComparable_Implementation
         public float Marks { get; set; }
 
         private int Height { get; set; }
+
+        private float weight { get; set; }
         public void Information()
         {
             Console.Write(this.SID);
